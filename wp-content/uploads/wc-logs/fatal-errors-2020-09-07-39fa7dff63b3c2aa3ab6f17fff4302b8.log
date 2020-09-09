@@ -1,0 +1,4 @@
+2020-09-07T03:43:37+00:00 CRITICAL Allowed memory size of 15728640 bytes exhausted (tried to allocate 20480 bytes) in /home/hashgblg/toyshoy.redrhinoz.com/wp-content/plugins/contact-form-7/includes/capabilities.php on line 19
+
+2020-09-07T03:43:40+00:00 CRITICAL Allowed memory size of 15728640 bytes exhausted (tried to allocate 20480 bytes) in /home/hashgblg/toyshoy.redrhinoz.com/wp-content/plugins/contact-form-7/includes/capabilities.php on line 19
+
